@@ -1,24 +1,28 @@
 # Aster
 
-Lecteur IPTV pour Android et Fire TV sous Fire OS, avec interface française adaptée au téléphone et à la télécommande.
+Lecteur IPTV pour téléphones Android et Fire TV sous Fire OS, avec interface française adaptée au toucher et à la télécommande.
 
-## Distribution privée
+## Télécharger gratuitement
 
-Ce dépôt est privé. Aucune release publique n’a été publiée. La version 0.7.0 est en brouillon.
+[Dernière version et notes de mise à jour](https://github.com/armandgillot/aster-releases/releases/latest)
 
-La diffusion aux utilisateurs autorisés et une future commercialisation nécessitent un service HTTPS de contrôle d’accès et de licence. Le contrôle de mise à jour anonyme initial doit être adapté avant diffusion ; aucun système de licence ou de paiement n’est encore actif.
+[APK Aster 0.7.0](https://github.com/armandgillot/aster-releases/releases/download/v0.7.0/aster-0.7.0.apk)
 
-Aster ne fournit ni abonnement ni flux IPTV. Configure tes propres sources Xtream Codes. Les identifiants sont enregistrés chiffrés sur ton appareil. La connexion HTTPS dépend également de l’adresse fournie par ton fournisseur.
+Cette version est gratuite et ne nécessite ni compte Aster ni code d’activation. Télécharge le fichier APK puis installe-le. Android/Fire OS peut demander d’autoriser l’installation d’applications depuis ton navigateur ou Downloader. Le fichier update.json est destiné à l’application ; il ne doit pas être installé.
+
+Aster ne fournit ni abonnement ni flux IPTV. Configure tes propres sources Xtream Codes. Les identifiants sont enregistrés chiffrés sur ton appareil. La connexion au fournisseur dépend de l’adresse HTTP ou HTTPS qu’il fournit.
 
 ## Mises à jour
 
-La première implémentation vérifie les mises à jour à l’ouverture, au maximum une fois par jour, mais son point d’entrée GitHub anonyme ne fonctionne pas avec le dépôt privé. Après intégration du service autorisé, ce mécanisme pourra être réutilisé. Une vérification manuelle est disponible dans **Moi → Mises à jour**. Le téléchargement et l’installation nécessitent ton accord. Les mises à jour de production conservent les sources, profils, favoris et historiques.
+Aster vérifie les mises à jour à l’ouverture, au maximum une fois par jour. Une vérification manuelle est disponible dans **Moi → Mises à jour**. Le téléchargement se fait dans l’application, puis Android te demande de confirmer l’installation.
 
-Sur Android/Fire OS, l’autorisation d’installer des applications hors boutique peut être nécessaire. Les appareils Fire TV sous Vega OS ne sont pas compatibles avec cet APK Android.
+Les mises à jour de production conservent les sources, profils, favoris et historiques. Ces données restent locales : aucune synchronisation entre appareils n’est encore active.
+
+Les anciennes versions debug de test utilisent une autre signature. Cet APK de production ne les remplace pas directement ; ne désinstalle pas ta version de test sans avoir prévu la conservation de tes données.
 
 ## Informations
 
 Films, séries et visuels : TMDB. Disponibilités des plateformes : JustWatch via TMDB.
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-Ce dépôt héberge uniquement les APK et informations de version. Le code source et les clés de signature ne sont pas publiés.
+Ce dépôt héberge uniquement les APK et informations de version. Le code source et la clé privée de signature ne sont pas publiés.
