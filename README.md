@@ -4,13 +4,12 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.5** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.5/aster-0.8.5.apk).
+Version actuelle : **0.8.6** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.6/aster-0.8.6.apk).
 
-- Recherche TMDB limitée aux titres disponibles sur vos sources.
-- Historique de lecture conservant aussi les contenus terminés, avec accès aux fiches.
-- Fiches ouvertes en haut et résumés sélectionnables pour une lecture confortable.
-- Chargement initial explicite, versions françaises prioritaires et moins de requêtes réseau.
-- Images du launcher adaptées à Android et Fire TV.
+- Épisodes d’anime à nouveau disponibles malgré une numérotation différente de TMDB.
+- Épisodes sans équivalent TMDB conservés sous « Autres épisodes disponibles ».
+- Écran d’import dédié avec étapes, progression et temps restant estimé.
+- Logo du film ou de la série dans le lecteur.
 
 Les mises à jour de production conservent vos sources, profils, favoris et historique.
 
