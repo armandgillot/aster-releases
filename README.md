@@ -4,14 +4,11 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.9** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.9/aster-0.8.9.apk).
+Version actuelle : **0.8.10** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.10/aster-0.8.10.apk).
 
-- Versions françaises filtrées, sous-titres français forcés prioritaires et logo du titre dans le bandeau d’accueil.
-- Une seule fiche TF1 regroupant ses différentes versions françaises.
-- Correction des épisodes faussement indisponibles sur certaines séries, notamment L’Attaque des Titans.
-- Import plus lisible : compteur par liste, cumul distinct et phase d’enregistrement affichée.
-- Écran maintenu éveillé pendant l’import.
-- Titre en texte en haut à gauche du lecteur et logo en bas à droite.
+- Qualité réellement lue affichée avec les commandes du lecteur.
+- Logos des titres sur les cartes horizontales, avec fond noir translucide et titre texte conservé ; jaquettes verticales inchangées.
+- Historique de l’accueil allégé, avec conservation des positions de reprise.
 
 Les mises à jour de production conservent vos sources, profils, favoris et historique.
 
