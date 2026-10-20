@@ -4,10 +4,15 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.17** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.17/aster-0.8.17.apk).
+Version actuelle : **0.8.18** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.18/aster-0.8.18.apk).
+
+- Espace adulte : retiré des séries, zapping haut/bas rétabli sur TV et retour de page stabilisé.
+- BRUT X reclassé hors de l’espace adulte ; classification fondée sur les catégories fournisseur.
+- Disponibilité des sagas corrigée, avec prise en charge des libellés Star Wars comportant un numéro d’épisode.
+- Migration automatique du catalogue existant, sans nouvel import.
 
 - Les films sont aussi retrouvés grâce à l’identifiant TMDb transmis par le fournisseur, même si son titre ou son année varie.
-- Les versions des catégories françaises sont privilégiées et le titre est vérifié avant d’associer une source. Actualisez le catalogue après la mise à jour.
+- Les versions des catégories françaises sont privilégiées et le titre est vérifié avant d’associer une source.
 
 - Qualité réellement lue affichée avec les commandes du lecteur.
 - Logos centrés sur un fondu sombre dans les cartes horizontales ; titre texte conservé uniquement sous la carte et jaquettes verticales inchangées.
