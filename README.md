@@ -4,7 +4,12 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.19** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.19/aster-0.8.19.apk).
+Version actuelle : **0.8.20** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.20/aster-0.8.20.apk).
+
+- Catalogue multilingue : titres traduits et alternatifs officiels reconnus pour les films et les séries.
+- Recherche des sources sans identifiant TMDB et recherche dans les plateformes améliorées.
+- Anciens rejets réexaminés automatiquement, sans réimporter les sources.
+- Dates de synchronisation conservées lors des migrations du catalogue.
 
 - TV : filtres et recherche restent visibles au défilement ; Retour retrouve les filtres sans déplacer les cartes.
 - Recherche et boutons alignés sur une hauteur commune de 48 dp.
