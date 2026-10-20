@@ -4,7 +4,11 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.18** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.18/aster-0.8.18.apk).
+Version actuelle : **0.8.19** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.19/aster-0.8.19.apk).
+
+- TV : filtres et recherche restent visibles au défilement ; Retour retrouve les filtres sans déplacer les cartes.
+- Recherche et boutons alignés sur une hauteur commune de 48 dp.
+- Mobile : en-tête défilant et recherche compacte.
 
 - Espace adulte : retiré des séries, zapping haut/bas rétabli sur TV et retour de page stabilisé.
 - BRUT X reclassé hors de l’espace adulte ; classification fondée sur les catégories fournisseur.
