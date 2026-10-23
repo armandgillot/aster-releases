@@ -4,7 +4,11 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.35** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.35/aster-0.8.35.apk).
+Version actuelle : **0.8.36** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.36/aster-0.8.36.apk).
+
+- Paramètres : libération de la licence sur cet appareil pour l’activer ailleurs.
+- Import fournisseur : meilleure maîtrise du stockage, avec protection du catalogue existant.
+- Lecteur : suppression du cadre carré au focus sur les commandes principales.
 
 - Paramètres : sources présentées dans des cartes adaptées au mobile et à la TV, actions accessibles et édition des identifiants dans une fenêtre dédiée.
 - Audio : décodeur logiciel FFmpeg intégré pour les pistes AC-3/E-AC3 et d’autres formats, même sans décodeur Android compatible. Mode PCM stéréo activé par défaut sur Blackview.
