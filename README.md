@@ -4,7 +4,11 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Télécharger la dernière version](https://github.com/armandgillot/aster-releases/releases/latest)
 
-Version actuelle : **0.8.40** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.40/aster-0.8.40.apk).
+[Site officiel Aster](https://aster-player.com)
+
+Version actuelle : **0.8.41** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.41/aster-0.8.41.apk).
+
+- Essai gratuit de 7 jours sans code, avec date de fin visible et activation d’une licence possible à tout moment.
 
 - Replay : accès placé au début du Guide TV ; horaires fiabilisés après redémarrage et lecture sur la version de la chaîne correspondant au guide.
 
@@ -69,7 +73,7 @@ Version actuelle : **0.8.40** — [Télécharger l’APK](https://github.com/arm
 
 Les mises à jour de production conservent vos sources, profils, favoris et historique.
 
-Une licence Aster active est nécessaire depuis la version 0.7.1. Demandez votre clé à la personne qui vous a fourni l’application.
+Un essai gratuit de 7 jours peut être démarré depuis l’écran d’activation, sans code. À la fin de l’essai, une licence Aster active est nécessaire. Demandez votre clé à la personne qui vous a fourni l’application. Aucun paiement automatique n’est déclenché.
 Aster ne fournit aucun abonnement ni flux IPTV : chaque utilisateur configure ses propres sources Xtream Codes.
 
 Les versions de production proposent les mises à jour dans **Paramètres › Application → Vérifier les mises à jour**. Le téléchargement est vérifié avant l’installation, puis Android ou Fire OS demande une confirmation.
