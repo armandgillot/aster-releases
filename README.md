@@ -6,7 +6,12 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Site officiel Aster](https://aster-player.com)
 
-Version actuelle : **0.8.62** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.62/aster-0.8.62.apk).
+Version actuelle : **0.8.63** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.63/aster-0.8.63.apk).
+
+- Licence : vérification auprès du service à chaque démarrage ; sans connexion, l’application reste bloquée jusqu’à la vérification. Activation corrigée sur Android 6.
+- Lecteur : avance rapide maintenue plafonnée, reprise du direct après une pause, reconnexion automatique des flux directs interrompus, écran d’erreur navigable à la télécommande.
+- Guide TV : heure de Paris partout, téléchargement suspendu pendant un import, guides volumineux pris en charge.
+- Identifiants protégés en cas d’erreur temporaire du stockage sécurisé ; favoris et épisodes vus fiabilisés ; saturation réduite en audio « Compatibilité ».
 
 - Paramètres : sections « Mise à jour » et « Licence » séparées pour plus de lisibilité.
 
@@ -102,10 +107,10 @@ Version actuelle : **0.8.62** — [Télécharger l’APK](https://github.com/arm
 
 Les mises à jour de production conservent vos sources, profils, favoris et historique.
 
-Une licence Aster est nécessaire pour activer l’application. Les périodes d’essai sont gérées par Keygen, avec la clé de licence fournie.
+Une licence Aster est nécessaire pour activer l’application ; elle est vérifiée en ligne à chaque démarrage. Les périodes d’essai sont gérées par Keygen, avec la clé de licence fournie.
 Aster ne fournit aucun abonnement ni flux IPTV : chaque utilisateur configure ses propres sources Xtream Codes.
 
-Les versions de production proposent les mises à jour dans **Paramètres › Application → Vérifier les mises à jour**. Le téléchargement est vérifié avant l’installation, puis Android ou Fire OS demande une confirmation.
+Les versions de production proposent les mises à jour dans **Paramètres › Mise à jour → Vérifier les mises à jour**. Le téléchargement est vérifié avant l’installation, puis Android ou Fire OS demande une confirmation.
 Les installations de test debug utilisent une autre signature et ne peuvent pas être remplacées directement par ces APK de production.
 
 Ce dépôt contient uniquement les APK de production, leurs manifestes et leurs notes de version. Les sources et les clés de signature ne sont pas publiées.
