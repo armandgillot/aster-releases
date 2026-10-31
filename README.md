@@ -6,7 +6,9 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Site officiel Aster](https://aster-player.com)
 
-Version actuelle : **0.8.61** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.61/aster-0.8.61.apk).
+Version actuelle : **0.8.62** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.62/aster-0.8.62.apk).
+
+- Paramètres : sections « Mise à jour » et « Licence » séparées pour plus de lisibilité.
 
 - Replay : archives explicitement signalées dans le guide reconnues même sans durée annoncée dans le catalogue ; recherche sur les autres versions de la chaîne si nécessaire.
 
