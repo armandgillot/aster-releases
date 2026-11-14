@@ -6,7 +6,13 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Site officiel Aster](https://aster-player.com)
 
-Version actuelle : **0.8.74** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.74/aster-0.8.74.apk).
+Version actuelle : **0.8.76** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.76/aster-0.8.76.apk).
+
+- Lecteur : écran d’erreur fiable à la télécommande, choix d’une autre version et « Épisode suivant » corrigés.
+- Films marqués vus avant la fin : « Reprendre à… » depuis la fiche. Séries : saison conservée au retour, épisodes sans numéro de saison affichés.
+- Réseau : DNS du réseau en dernier recours quand le DNS chiffré est bloqué ; serveurs du réseau local de nouveau joignables.
+- Mise à jour : reprise de l’installation après l’autorisation Android, fichier supprimé une fois installé.
+- Épisodes indisponibles accessibles à la télécommande (0.8.75).
 
 - Séries : épisodes en cache affichés immédiatement, puis vérification ciblée après 30 minutes sans déplacer la saison ou la sélection. Les épisodes connus restent disponibles si la vérification échoue.
 
