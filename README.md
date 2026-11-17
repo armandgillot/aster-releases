@@ -6,14 +6,17 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Site officiel Aster](https://aster-player.com)
 
-Version actuelle : **0.8.81** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.81/aster-0.8.81.apk).
+Version actuelle : **0.8.85** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.85/aster-0.8.85.apk).
+
+- Nouvelle présentation cinéma des jaquettes, cartes et fiches films/séries ; logos conservés et marges adaptées au téléphone.
+- Cartes acteurs et plateformes harmonisées, genres illustrés et navigation TV améliorée dans les recherches et les fiches.
 
 - Animations : focus progressif des cartes, apparition douce des fiches et menu TV adouci.
 
 - Stabilité TV : fermeture lors du changement de listes corrigée ; mémoire de restauration du focus bornée pendant les longues sessions.
 
 - Ajout d’une source sur la TV depuis le navigateur de n’importe quel téléphone, par QR code. Lecture refusée : abonnement expiré, écrans simultanés atteints ou VPN actif clairement signalés.
-- Section Stockage et diagnostic de connexion explicite (0.8.78).
+- Section Stockage et diagnostic de connexion explicite (0.8.85).
 
 - Télécommande : entrée des fiches sur la première action disponible, saison sélectionnée respectée et mémoire des carrousels. Nouveautés sans doublon dans la mise à jour.
 
@@ -21,7 +24,7 @@ Version actuelle : **0.8.81** — [Télécharger l’APK](https://github.com/arm
 - Films marqués vus avant la fin : « Reprendre à… » depuis la fiche. Séries : saison conservée au retour, épisodes sans numéro de saison affichés.
 - Réseau : DNS du réseau en dernier recours quand le DNS chiffré est bloqué ; serveurs du réseau local de nouveau joignables.
 - Mise à jour : reprise de l’installation après l’autorisation Android, fichier supprimé une fois installé.
-- Épisodes indisponibles accessibles à la télécommande (0.8.75).
+- Épisodes indisponibles accessibles à la télécommande (0.8.85).
 
 - Séries : épisodes en cache affichés immédiatement, puis vérification ciblée après 30 minutes sans déplacer la saison ou la sélection. Les épisodes connus restent disponibles si la vérification échoue.
 
