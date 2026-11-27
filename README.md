@@ -6,7 +6,10 @@ Lecteur IPTV indépendant pour Android et Fire TV, avec interface en français.
 
 [Site officiel Aster](https://aster-player.com)
 
-Version actuelle : **0.8.94** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.94/aster-0.8.94.apk).
+Version actuelle : **0.8.95** — [Télécharger l’APK](https://github.com/armandgillot/aster-releases/releases/download/v0.8.95/aster-0.8.95.apk).
+
+- Sonos : volume et muet depuis les touches reçues par Aster ou le menu Sonos ; pause/reprise fiabilisée et synchronisation réglable sans reconnexion.
+
 
 - Sonos (expérimental) : sortie audio vers une enceinte locale, image conservée dans Aster et décalage réglable.
 - Préparation de la bibliothèque sur mobile : indicateur animé et chargement en arrière-plan.
